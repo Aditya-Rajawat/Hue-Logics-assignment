@@ -1,6 +1,6 @@
 # Hue-Logics-assignment(SBI Dashboard)
 
-- Created a dashboard having four tiles displaying values. These tiles represent metrics of SBI for 4 quarters.
+- Created a responsive dashboard having four tiles displaying values. These tiles represent metrics of SBI for 4 quarters.
 
 - Live Link : https://sbidashboard.netlify.app/
 
